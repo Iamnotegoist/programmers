@@ -1,0 +1,5 @@
+package Ω∫≈√≈•;
+
+public class Pgm_42586 {
+
+}
