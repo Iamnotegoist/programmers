@@ -1,4 +1,4 @@
-package 프로그래머스;
+package 프로그래머스.레벨2;
 
 /*
  * 문제링크 - https://school.programmers.co.kr/learn/courses/30/lessons/150368?language=java
