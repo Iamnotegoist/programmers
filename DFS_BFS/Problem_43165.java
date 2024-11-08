@@ -1,4 +1,4 @@
-package 프로그래머스.DFS_BFS;
+package DFS_BFS;
 
 public class Problem_43165 {
 	public static void main(String[] args) {

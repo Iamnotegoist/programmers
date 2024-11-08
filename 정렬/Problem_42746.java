@@ -1,4 +1,4 @@
-package 프로그래머스.정렬;
+package 정렬;
 
 import java.util.ArrayList;
 import java.util.Collections;

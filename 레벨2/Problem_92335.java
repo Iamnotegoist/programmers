@@ -1,4 +1,4 @@
-package 프로그래머스.레벨2;
+package 레벨2;
 
 public class Problem_92335 {
 	public static void main(String[] args) {

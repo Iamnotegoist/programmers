@@ -1,4 +1,4 @@
-package 프로그래머스.완전탐색;
+package 완전탐색;
 
 public class Problem_42839_review {
 	public static void main(String[] args) {

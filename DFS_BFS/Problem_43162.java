@@ -1,8 +1,13 @@
-package 프로그래머스.DFS_BFS;
+package DFS_BFS;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
+/*
+ * 분류 - BFS
+ * 제목 - 네트워크
+ * 링크 - https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java
+ */
 public class Problem_43162 {
 	public static void main(String[] args) {
 		solution(

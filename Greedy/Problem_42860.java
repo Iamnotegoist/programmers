@@ -1,4 +1,4 @@
-package 프로그래머스.Greedy;
+package Greedy;
 
 public class Problem_42860 {
 	public static void main(String[] args) {

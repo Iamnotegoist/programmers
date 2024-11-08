@@ -1,4 +1,4 @@
-package 프로그래머스.완전탐색;
+package 완전탐색;
 
 import java.util.HashSet;
 import java.util.Iterator;
